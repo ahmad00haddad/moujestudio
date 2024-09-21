@@ -1,9 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
+  <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mouje Studio - Works</title>
+    <title>Mouje Studio - works</title>
+    <meta name="description" content=" a leading studio delivering world-class audio solutions with a team of expert engineers and state-of-the-art facilities, ensuring exceptional sound quality for every project.">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Mouje Studio">
+    <meta property="og:title" content="Mouje Studio">
+<meta property="og:description" content="a leading studio delivering world-class audio solutions with a team of expert engineers and state-of-the-art facilities, ensuring exceptional sound quality for every project.">
+
+<!-- لازم نغير الروابط لما نشتري الدومين  -->
+<!-- <meta property="og:image" content="./assets/img/home-img.webp">
+<meta property="og:url" content="./assets/img/home-img.webp"> -->
+<meta property="og:type" content="website">
+<link rel="icon" href="./assets/img/wave.webp" type="image/x-icon">
+<link rel="apple-touch-icon" href="./assets/img/wave.webp">
 
     <link
       rel="stylesheet"
