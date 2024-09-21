@@ -63,7 +63,7 @@
     <section class="home" id="home">
       <div class="home-content">
         <h1>Hi, It's <span>Mouje</span>Studio</h1>
-       
+       <h1> hi i am mohammad haddad</h1>
         <!-- <h3 class="text-animation">We are <span id="animated-text"></span></h3> -->
 
         <div class="content text-animation">
