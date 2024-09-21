@@ -99,8 +99,8 @@
         </div>
 
         <div class="btn-group">
-          <a href="#" class="btn"> Hire </a>
-          <a href="#" class="btn"> contact</a>
+          <a href="./about.php" class="btn"> About </a>
+          <a href="./contact.php" class="btn"> contact</a>
         </div>
       </div>
       <div class="home-img blur-border">
