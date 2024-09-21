@@ -51,6 +51,7 @@
     <section class="home" id="home">
       <div class="home-content">
         <h1>Hi, It's <span>Mouje</span>Studio</h1>
+        <h2> i think this is the end</h2>
        
         <!-- <h3 class="text-animation">We are <span id="animated-text"></span></h3> -->
 
