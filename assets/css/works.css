@@ -365,3 +365,11 @@ body {
     z-index: 10;
   }
 }
+
+@media (max-width: 767px) {
+  .flex__content {
+    margin-left: 25px;
+    width: 75%;
+    opacity: 1;
+  }
+}
