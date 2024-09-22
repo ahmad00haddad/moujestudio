@@ -74,7 +74,13 @@
   .home {
     flex-direction: column !important;
     gap: 5rem;
-    margin-top: 3rem;
+    margin-top: 2rem;
+  }
+  .contact-wrap.home-content h1 {
+    font-size: 3rem;
+  }
+  textarea#message {
+    height: 10rem;
   }
 }
 .btn {

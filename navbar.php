@@ -5,7 +5,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
 
 <header class="header">
   <a class="navbar-brand logo" href="./index.php#home">
-    <img src="assets/img/wave.png" alt="">
+    <img src="assets/img/wave.webp" alt="">
     Mouje <span>Studio</span>
   </a>
 
@@ -20,7 +20,10 @@ $current_page = basename($_SERVER['PHP_SELF']);
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
-        <span class="navbar-toggler-icon"><i class="bx bx-menu"></i></span>
+        <span class="navbar-toggler-icon"><i class="bx bx-menu">
+          
+        </i>
+      </span>
       </button>
       <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
