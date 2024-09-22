@@ -541,7 +541,6 @@ span {
     position: relative;
     right: 9rem;
     top: 2rem;
-    /* display: flex; */
   }
   .nav-item.dropdown:hover .dropdown-menu {
     position: relative;
